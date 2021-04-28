@@ -1,16 +1,20 @@
-### Hey! I'm Fede 👋
+## Hey! I'm Fede 👋
 
-<!--
-**fedehertz/fedehertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a software engineer
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/47793776/116348876-40a6c800-a7c5-11eb-9411-55ff45fca021.png" width="25" height="25"/> Currently working at Mercado Libre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Experienced mainly in backend programming (Java, Scala, Groovy, Kotlin and Ruby, among others)
+
+⚽ I love soccer and sports in general
+
+📸 I'm photograper as a hobby
+
+🎸 I like playing the guitar
+
+
+### Get in touch!
+
+- https://www.linkedin.com/in/fedehertz
+
+- https://twitter.com/fedehertz
