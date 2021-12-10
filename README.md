@@ -1,10 +1,8 @@
-## Hey! I'm Fede 👋
+### Hey! I'm Fede 👋
 
 💻 I'm a software engineer
 
-:airplane: Currently working at Despegar
-
-☕ Experienced mainly in backend programming (Java, Scala, Groovy, Kotlin and Ruby, among others)
+☕ Experienced mainly in backend programming & designing
 
 ⚽ I love soccer and sports in general
 
